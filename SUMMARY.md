@@ -9,3 +9,4 @@
   * [Day 4](./week0/day4.md)
 * [Week 1]()
   * [Day 0](./week1/day0.md)
+  * [Day 1](./week1/day1.md)
