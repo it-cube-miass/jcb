@@ -17,3 +17,4 @@
   * [Day 0](./week2/day0.md)
   * [Day 1](./week2/day1.md)
   * [Day 2](./week2/day2.md)
+  * [Day 3](./week2/day3.md)
